@@ -1,0 +1,29 @@
+.loginMain {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .loginBody {
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .loginBody input {
+    width: 300px;
+    height: 25px;
+    margin: 10px;
+    font-size: 13px;
+  }
+  
+  .loginBody button {
+    margin: 20px;
+  }
